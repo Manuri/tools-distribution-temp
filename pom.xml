@@ -33,9 +33,9 @@
     <description>Ballerina - Tools</description>
 
     <scm>
-        <url>//github.com/ballerinalang/distribution.git</url>
-        <developerConnection>scm:git:https://github.com/ballerinalang/distribution.git</developerConnection>
-        <connection>scm:git:https://github.com/ballerinalang/distribution.git</connection>
+        <url>//github.com/manuri/tools-distribution-temp.git</url>
+        <developerConnection>scm:git:https://github.com/manuri/tools-distribution-temp.git</developerConnection>
+        <connection>scm:git:https://github.com/manuri/tools-distribution-temp.git</connection>
         <tag>HEAD</tag>
     </scm>
 
@@ -193,5 +193,7 @@
         <docerina.version>0.8.1</docerina.version>
         <docerina.maven.plugin.version>0.8.1</docerina.maven.plugin.version>
         <ballerina.connectors.version>0.8.0</ballerina.connectors.version>
+
+        <project.scm.id>my-scm-server</project.scm.id>
     </properties>
 </project>
