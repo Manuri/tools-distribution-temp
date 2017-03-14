@@ -185,12 +185,12 @@
     </build>
 
     <properties>
-        <ballerina.runtime.version>0.8.12</ballerina.runtime.version>
+        <ballerina.runtime.version>0.8.13</ballerina.runtime.version>
         <ballerina.composer.version>0.8.14</ballerina.composer.version>
-        <testerina.version>0.8.6</testerina.version>
-        <tool.swagger.version>0.8.4</tool.swagger.version>
-        <ballerina.container.version>0.8.3</ballerina.container.version>
-        <docerina.version>0.8.7</docerina.version>
+        <testerina.version>0.8.7</testerina.version>
+        <tool.swagger.version>0.8.5</tool.swagger.version>
+        <ballerina.container.version>0.8.4</ballerina.container.version>
+        <docerina.version>0.8.8</docerina.version>
         <docerina.maven.plugin.version>0.8.1</docerina.maven.plugin.version>
         <ballerina.connectors.version>0.8.0</ballerina.connectors.version>
 
