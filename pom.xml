@@ -28,7 +28,7 @@
     <groupId>org.ballerinalang.tools</groupId>
     <artifactId>ballerina-tools</artifactId>
     <packaging>pom</packaging>
-    <version>0.8.12-SNAPSHOT</version>
+    <version>0.8.13-SNAPSHOT</version>
     <name>Ballerina - Tools</name>
     <description>Ballerina - Tools</description>
 
@@ -186,11 +186,11 @@
 
     <properties>
         <ballerina.runtime.version>0.8.20</ballerina.runtime.version>
-        <ballerina.composer.version>0.8.18</ballerina.composer.version>
-        <testerina.version>0.8.17</testerina.version>
-        <tool.swagger.version>0.8.17</tool.swagger.version>
-        <ballerina.container.version>0.8.14</ballerina.container.version>
-        <docerina.version>0.8.17</docerina.version>
+        <ballerina.composer.version>0.8.19</ballerina.composer.version>
+        <testerina.version>0.8.18</testerina.version>
+        <tool.swagger.version>0.8.18</tool.swagger.version>
+        <ballerina.container.version>0.8.15</ballerina.container.version>
+        <docerina.version>0.8.18</docerina.version>
         <docerina.maven.plugin.version>0.8.1</docerina.maven.plugin.version>
         <ballerina.connectors.version>0.8.0</ballerina.connectors.version>
 
