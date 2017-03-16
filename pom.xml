@@ -28,7 +28,7 @@
     <groupId>org.ballerinalang.tools</groupId>
     <artifactId>ballerina-tools</artifactId>
     <packaging>pom</packaging>
-    <version>0.8.11</version>
+    <version>0.8.12-SNAPSHOT</version>
     <name>Ballerina - Tools</name>
     <description>Ballerina - Tools</description>
 
@@ -36,7 +36,7 @@
         <url>//github.com/manuri/tools-distribution-temp.git</url>
         <developerConnection>scm:git:https://github.com/manuri/tools-distribution-temp.git</developerConnection>
         <connection>scm:git:https://github.com/manuri/tools-distribution-temp.git</connection>
-        <tag>ballerina-tools-0.8.11</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
